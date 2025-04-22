@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 HF_ENDPOINT=https://hf-mirror.com streamlit run streamlit.py --server.port 8509
